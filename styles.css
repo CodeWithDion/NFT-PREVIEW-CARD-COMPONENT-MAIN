@@ -124,6 +124,7 @@ h2:hover {
 }
 
 .creator span {
+    color: var(--White);
     cursor: pointer;
 }
 
